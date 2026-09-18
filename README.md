@@ -60,8 +60,9 @@ exploitables pour la prise de décision.
 
 ## Structure du projet
 
-- `Projet_Analyse_Ventes_Excel.xlsx` — fichier Excel complet
-- `README.md` — présentation du projet
+- 'Projet_Analyse_Ventes.pdf' — fichier Excel complet contenant les données, le nettoyage, les analyses et le dashboard.
+- 'README.md' — présentation du projet.
+- 'Dashboard_Analyse_Ventes.md` — export PDF du dashboard final.
 
 ## Compétences mobilisées
 
