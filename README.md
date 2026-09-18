@@ -62,7 +62,7 @@ exploitables pour la prise de décision.
 
 - 'Projet_Analyse_Ventes.pdf' — fichier Excel complet contenant les données, le nettoyage, les analyses et le dashboard.
 - 'README.md' — présentation du projet.
-- 'Dashboard_Analyse_Ventes.md` — export PDF du dashboard final.
+- 'Dashboard_Analyse_Ventes.md' — export PDF du dashboard final.
 
 ## Compétences mobilisées
 
